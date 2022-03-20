@@ -6,6 +6,9 @@ This project is part of the Rocketseat Ignite - ReactJS course.
  
 ## Preview
 
+![shopping-cart](https://user-images.githubusercontent.com/56962997/159162878-32169249-3b2f-4820-a492-298faf471458.gif)
+
+
 ## Technologies
 
 - ReactJS, TypeScript, JSON Server, Styled-components, Toastify.
